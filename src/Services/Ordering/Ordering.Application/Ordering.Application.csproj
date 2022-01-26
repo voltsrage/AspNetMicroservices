@@ -17,11 +17,4 @@
     <ProjectReference Include="..\Ordering,Domain\Ordering,Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Behaviours\" />
-    <Folder Include="Features\Orders\Commands\CheckoutOrder\" />
-    <Folder Include="Features\Orders\Commands\DeleteOrder\" />
-    <Folder Include="Features\Orders\Commands\UpdateOrder\" />
-  </ItemGroup>
-
 </Project>
